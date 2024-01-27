@@ -29,10 +29,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='C:\Users\User 1\Desktop\Animation.gif' />
+<img src='[C:\Users\User 1\Desktop\Animation.gif](https://im.ezgif.com/tmp/ezgif-1-fd23aa1967.gif)' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with (https://www.screentogif.com/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
