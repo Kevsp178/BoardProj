@@ -30,26 +30,22 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 <div>
     <a href="https://www.loom.com/share/78c1ad840682483681bbb2349864a815">
-      <p>﻿﻿​﻿​​Library | Loom - 27 January 2024 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/78c1ad840682483681bbb2349864a815">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/78c1ad840682483681bbb2349864a815-with-play.gif">
     </a>
   </div>
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with loom
+
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+- attempted to create a separate component and import it to my app file but it was not working
+- to circumvent the issues I just built the whole project with my app file 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Kevin Espejo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
