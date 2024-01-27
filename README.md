@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='C:\Users\User 1\Downloads\groupboard.gif' />
+<img src='C:\Users\User 1\Desktop\Animation.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
