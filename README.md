@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
+<a>
 <img src='C:\Users\User 1\Downloads\groupboard-ezgif.com-video-to-gif-converter.gif' />
-
+</a>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with 
 <!-- Recommended tools:
