@@ -28,9 +28,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<a>
-<img src='C:\Users\User 1\Downloads\groupboard-ezgif.com-video-to-gif-converter.gif' />
-</a>
+<div style="position: relative; padding-bottom: 54.479166666666664%; height: 0;"><iframe src="https://www.loom.com/embed/78c1ad840682483681bbb2349864a815?sid=921cff4c-1412-43c3-809b-c91f0fdfd538" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with 
 <!-- Recommended tools:
