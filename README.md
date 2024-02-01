@@ -16,13 +16,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] Buttons or links to a related resources are on each card component
+- [x] Buttons or links to related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you added to improve the site's functionality!
+* [x] List anything else you added to improve the site's functionality!
       To improve web functionality, we can change the layout of the cards in way format that would allow for a larger description of the restaurants 
 
 ## Video Walkthrough
